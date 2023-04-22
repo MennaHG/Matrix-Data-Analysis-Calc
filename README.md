@@ -1,6 +1,5 @@
 # Matrix-Data-Analysis-Calc
-
-I developed this application using Python Pyqt library. This program performs operations on Matrices (get Eigenvectors, eigenvalues) and Data (mean, median, histogram,
+This application was developed using Python Pyqt library. This program performs operations on Matrices (get Eigenvectors, eigenvalues) and Data (mean, median, histogram,
 standard dev, range)
 
 ![Screenshot (117)](https://user-images.githubusercontent.com/105600225/233790701-1328a9ff-8107-4fc9-b16b-1ff7e29e8629.png)
